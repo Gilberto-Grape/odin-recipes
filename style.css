@@ -2,13 +2,14 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/* Amends the h1 element in the body section of index.html */
 .title {
     font-weight: 800;
     color: aquamarine;
     background-color:black;
     text-align: center;
 }
-
+/* Amends the unordered list elements */
 ul {
     text-align: center;
     background-color:wheat;
