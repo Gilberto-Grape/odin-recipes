@@ -1,0 +1,17 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    font-weight: 800;
+    color: aquamarine;
+    background-color:black;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    background-color:wheat;
+    color: azure;
+    font-weight: 500;
+}
