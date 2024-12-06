@@ -11,6 +11,10 @@ h2 {
     text-align: center;
 }
 
+h1{
+    font-size: xx-large;
+}
+
 h4 {
     background-color: black;
     color: antiquewhite;
@@ -19,15 +23,7 @@ h4 {
 
 /* Class applied to both the h1 element and the ul element */
 .test {
-    font-size: larger;
     font-weight: bolder;
     color: aquamarine;
     background-color: darkgrey;
-}
-
-#top{
-    background-color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    font-size: x-large;
 }
