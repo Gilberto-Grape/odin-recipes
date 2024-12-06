@@ -1,0 +1,27 @@
+div {
+    color:darkmagenta;
+    background-color: aquamarine;
+    text-align: left;
+}
+
+h1,
+h2 {
+    color: cadetblue;
+    font-weight: bold;
+    text-align: center;
+}
+/* Class applied to both the h1 element and the ul element */
+.test {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+h2 {
+
+}
+
+.test {
+    color: black;
+    background-color: burlywood;
+    text-align: center;
+}
