@@ -10,18 +10,24 @@ h2 {
     font-weight: bold;
     text-align: center;
 }
+
+h4 {
+    background-color: black;
+    color: antiquewhite;
+    font-size: large;
+}
+
 /* Class applied to both the h1 element and the ul element */
 .test {
     font-size: larger;
     font-weight: bolder;
+    color: aquamarine;
+    background-color: darkgrey;
 }
 
-h2 {
-
-}
-
-.test {
-    color: black;
-    background-color: burlywood;
+#top{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    font-size: x-large;
 }
